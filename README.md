@@ -6,7 +6,7 @@ Rebuilding my JavaScript fundamentals from the ground up through hands-on experi
 - [x] Values, Variables & Types
 - [x] Primitive vs Reference
 - [x] Operators & Equality
-- [ ] Functions
+- [x] Functions
 - [ ] Scope & Closures
 - [ ] Arrays & Objects
 - [ ] Execution Context
