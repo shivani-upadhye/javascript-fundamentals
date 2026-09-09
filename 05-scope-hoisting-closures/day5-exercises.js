@@ -26,3 +26,6 @@ counter1.decrement(); //1
 
 console.log(counter1.getCount()); //1
 console.log(counter2.getCount()); //1
+
+
+//everytime createCounter is called a new count is created for counter1 and counter2 separately
