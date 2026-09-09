@@ -1,4 +1,4 @@
-# JavaScript Closures — Beginner to Advanced
+# JavaScript Closures 
 
 Closures are one of the most important concepts in JavaScript.
 
