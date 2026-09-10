@@ -1904,4 +1904,4 @@ Closure can still use those variables
 
 ### ⭐ Final rule
 
-> **A closure is not just a function inside another function. It is a function that retains access to its surrounding lexical environment.**
+> **A closure is not just a function inside another function. It is a function that retains access to its surrounding lexical environment, it is determined by where the function is written/created and not where it is called.**
